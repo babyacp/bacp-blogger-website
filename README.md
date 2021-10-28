@@ -1,2 +1,19 @@
 # bacp-blogger-website
-Blogger Website is a web application that allows users to post photos and describe the photo. User can edit and delete the post according to the desire of their hearts. 
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
